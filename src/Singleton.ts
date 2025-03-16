@@ -1,6 +1,6 @@
 class DatabaseAccess {
 
-    protected static instance = null;
+    protected static instance: DatabaseAccess | null = null;
 
     private constructor() {}
 

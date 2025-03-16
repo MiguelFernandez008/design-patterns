@@ -15,6 +15,8 @@ This pattern is used when you need to build complex object withou knowing its im
 ### Factory method
 
 ### Proptotype
+This pattern lets you copy objects without being dependent of their clases.
+[Proptotype.ts](src/Proptotype.ts)
 
 ### Singleton
 This pattern is used  when you need only an instance of a particular class.
