@@ -9,10 +9,12 @@ This pattern is used when you need to be independent in the way the products and
 [AbstractFactory.ts](src/AbstractFactory.ts)
 
 ### Builder
-This pattern is used when you need to build complex object withou knowing its implementation, or complex objects with various implementations.
+This pattern is used when you need to build complex object without knowing its implementation, or complex objects with various implementations.
 [Builder.ts](src/Builder.ts)
 
 ### Factory method
+This pattern is used when the parent class offers an interface from creating objects but allows the subclasses to change the type of object is created.
+[FactoryMethod.ts](src/FactoryMethod.ts)
 
 ### Proptotype
 This pattern lets you copy objects without being dependent of their clases.
