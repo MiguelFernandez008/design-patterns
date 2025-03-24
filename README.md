@@ -25,5 +25,8 @@ This pattern is used  when you need only an instance of a particular class.
 [Singleton.ts](src/Singleton.ts)
 
 ## Structural patterns
+This type of pattern explain how to assemble objects into larger structures while keeping the structures flexible and eficient.
 
 ### Adapter
+This pattern allows incompatible objects to collaborate.
+[Adapter.ts](src/Adapter.ts)
